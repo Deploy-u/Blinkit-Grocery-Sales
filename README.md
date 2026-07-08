@@ -41,4 +41,4 @@ To extract data-driven business insights from sales transactions by analyzing ou
 
 ---
 
-**By:** Riya Nemade | Aspiring Data Analyst
+**By:** Satyam Kumar | Aspiring Data Analyst
